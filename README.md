@@ -1,4 +1,4 @@
-# Tech
+# It's not only about the Tech
 Digital Transformation is not only about Tech - originally posted May 2017
 
 There’s no single binary solution for Digital transformation.  It’s not an either/or but the blended adoption of various positions, and includes a significant technology component.  So while there’s much more to digital transformation than technology, the absence of certain tech guarantees failure.  Rather than “it’s not about the tech”, “it’s not only about the tech” increases the chance of success
